@@ -1,3 +1,5 @@
+Link to watch a sinmple video of the project; https://www.youtube.com/watch?v=HNDw9Ti-6es&ab_channel=CHICKEN_EATER
+
 # Python Weather App (PyQt5)
 
 This is a simple desktop GUI weather application built using Python and PyQt5.  
